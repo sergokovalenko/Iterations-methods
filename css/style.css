@@ -1,0 +1,7 @@
+.inline {
+  display: inline-block;
+}
+
+.result-block {
+  min-width: 300px;
+}
